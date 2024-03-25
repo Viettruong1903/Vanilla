@@ -1,0 +1,244 @@
+{
+  "todosDB":{
+    "-NsyRv0BwL51MKi5jGV8": {
+      "uid": "c5adec51",
+      "category": "work",
+      "status": "completed",
+      "todo": "Fix broken image links",
+      "start": "8/13/2023",
+      "finish": "9/3/2023"
+    },
+    "-NsyRv0FUHqUpjBdldmX": {
+      "uid": "b30c129a",
+      "category": "health",
+      "status": "active",
+      "todo": "Meditate for 15 minutes",
+      "start": "6/20/2023",
+      "finish": "7/4/2023"
+    },
+    "-NsyRv0KFoatBlWRc1_c": {
+      "uid": "5290d3eb",
+      "category": "personal",
+      "status": "pending",
+      "todo": "Go to a comedy show",
+      "start": "12/3/2023",
+      "finish": "12/17/2023"
+    },
+    "-NsyRv0O-Aso5-McEtDx": {
+      "uid": "99053247",
+      "category": "school",
+      "status": "pending",
+      "todo": "Complete HTML/CSS project",
+      "start": "8/17/2023",
+      "finish": "9/7/2023"
+    },
+    "-NsyRv0RtjoZM_CMgKx2": {
+      "uid": "47a7650a",
+      "category": "school",
+      "status": "pending",
+      "todo": "Practice debugging code",
+      "start": "5/2/2023",
+      "finish": "5/16/2023"
+    },
+    "-NsyRv0Vt55LFKnPmx-b": {
+      "uid": "3b643da6",
+      "category": "personal",
+      "status": "active",
+      "todo": "Plan a weekend getaway",
+      "start": "10/13/2023",
+      "finish": "11/3/2023"
+    },
+    "-NsyRv0ZPgv2Dhonfnxo": {
+      "uid": "cdd97772",
+      "category": "personal",
+      "status": "pending",
+      "todo": "Read a new book",
+      "start": "6/11/2023",
+      "finish": "6/18/2023"
+    },
+    "-NsyRv0dD4y359ibe5P3": {
+      "uid": "df18ec73",
+      "category": "personal",
+      "status": "completed",
+      "todo": "Try a new restaurant",
+      "start": "3/12/2024",
+      "finish": "4/2/2024"
+    },
+    "-NsyRv0hnLHyw6O7njlu": {
+      "uid": "00d70227",
+      "category": "personal",
+      "status": "active",
+      "todo": "Go to a comedy show",
+      "start": "4/25/2023",
+      "finish": "5/2/2023"
+    },
+    "-NsyRv0mQhOGKD6v1mY1": {
+      "uid": "78d62f8d",
+      "category": "health",
+      "status": "active",
+      "todo": "Limit sugar intake",
+      "start": "1/19/2024",
+      "finish": "2/2/2024"
+    },
+    "-NsyRv0qLDCJVR5HGSt7": {
+      "uid": "a0c55994",
+      "category": "school",
+      "status": "active",
+      "todo": "Implement user authentication",
+      "start": "9/28/2023",
+      "finish": "10/19/2023"
+    },
+    "-NsyRv0thdEBa1RTxg4c": {
+      "uid": "de4689a2",
+      "category": "personal",
+      "status": "completed",
+      "todo": "Take a photography class",
+      "start": "11/22/2023",
+      "finish": "11/29/2023"
+    },
+    "-NsyRv0vo3XjkKIjhr1L": {
+      "uid": "3619762a",
+      "category": "health",
+      "status": "completed",
+      "todo": "Eat a handful of nuts",
+      "start": "5/30/2023",
+      "finish": "6/20/2023"
+    },
+    "-NsyRv0zbgv3B7byxo9M": {
+      "uid": "ed04f488",
+      "category": "school",
+      "status": "pending",
+      "todo": "Complete HTML/CSS project",
+      "start": "4/24/2023",
+      "finish": "5/1/2023"
+    },
+    "-NsyRv110a4p4eupNwf7": {
+      "uid": "8ee5f434",
+      "category": "health",
+      "status": "pending",
+      "todo": "Avoid processed foods",
+      "start": "8/18/2023",
+      "finish": "9/1/2023"
+    },
+    "-NsyRv143IZM2E6GJAP5": {
+      "uid": "5fb8b561",
+      "category": "health",
+      "status": "pending",
+      "todo": "Drink 8 glasses of water",
+      "start": "8/30/2023",
+      "finish": "9/6/2023"
+    },
+    "-NsyRv17p7MA9YhZ39Rq": {
+      "uid": "df93c7fa",
+      "category": "work",
+      "status": "pending",
+      "todo": "Add social media sharing buttons",
+      "start": "2/14/2024",
+      "finish": "2/28/2024"
+    },
+    "-NsyRv19RuXkVlzH4AVu": {
+      "uid": "157639b4",
+      "category": "work",
+      "status": "pending",
+      "todo": "Optimize website for mobile devices",
+      "start": "9/19/2023",
+      "finish": "10/10/2023"
+    },
+    "-NsyRv1CY88BboVIO1g2": {
+      "uid": "6e997945",
+      "category": "school",
+      "status": "active",
+      "todo": "Read articles on UX/UI design",
+      "start": "4/9/2023",
+      "finish": "4/30/2023"
+    },
+    "-NsyRv1GEQns8Apn4pYT": {
+      "uid": "282ce2a8",
+      "category": "work",
+      "status": "pending",
+      "todo": "Update footer design",
+      "start": "5/7/2023",
+      "finish": "5/14/2023"
+    },
+    "-NsyRv1KKssTZXFPiP2a": {
+      "uid": "d3b5353c",
+      "category": "personal",
+      "status": "active",
+      "todo": "Take a photography class",
+      "start": "1/23/2024",
+      "finish": "2/13/2024"
+    },
+    "-NsyRv1O2aAgaigUWk8P": {
+      "uid": "6c749296",
+      "category": "personal",
+      "status": "pending",
+      "todo": "Have a spa day",
+      "start": "4/4/2023",
+      "finish": "4/11/2023"
+    },
+    "-NsyRv1S70XAKGqeLrel": {
+      "uid": "dd34d6cd",
+      "category": "work",
+      "status": "completed",
+      "todo": "Implement responsive design",
+      "start": "9/10/2023",
+      "finish": "10/1/2023"
+    },
+    "-NsyRv1Wb9vuw7Q6R_YU": {
+      "uid": "3130c855",
+      "category": "school",
+      "status": "completed",
+      "todo": "Participate in a hackathon",
+      "start": "1/24/2024",
+      "finish": "1/31/2024"
+    },
+    "-NsyRv1ZIGXmWfftL-j2": {
+      "uid": "38d1b415",
+      "category": "health",
+      "status": "completed",
+      "todo": "Take a probiotic supplement",
+      "start": "8/9/2023",
+      "finish": "8/23/2023"
+    },
+    "-NsyRv1buBU3I0vih8Uk": {
+      "uid": "a55da95f",
+      "category": "school",
+      "status": "active",
+      "todo": "Create a database schema",
+      "start": "2/27/2024",
+      "finish": "3/5/2024"
+    },
+    "-NsyRv1e0mkTelNnHkRv": {
+      "uid": "05c240dc",
+      "category": "health",
+      "status": "pending",
+      "todo": "Limit sugar intake",
+      "start": "11/3/2023",
+      "finish": "11/10/2023"
+    },
+    "-NsyRv1iNroBoIFjSXCH": {
+      "uid": "a3841e21",
+      "category": "health",
+      "status": "completed",
+      "todo": "Limit caffeine intake",
+      "start": "7/5/2023",
+      "finish": "7/19/2023"
+    },
+    "-NsyRv1myrWiK4zE_1EY": {
+      "uid": "bc1792c1",
+      "category": "health",
+      "status": "pending",
+      "todo": "Get a check-up with your doctor",
+      "start": "7/16/2023",
+      "finish": "7/23/2023"
+    },
+    "-NsyRv1p6FnG-2eKEC_H": {
+      "uid": "5b90b202",
+      "category": "work",
+      "status": "completed",
+      "todo": "Implement image carousel",
+      "start": "8/29/2023",
+      "finish": "9/5/2023"
+    }
+  }
+}
